@@ -1,0 +1,42 @@
+c:\users\ngmpc3\documents\visual studio 2017\Projects\WPFLoginForm\WPFLoginForm\bin\Debug\WPFLoginForm.exe.config
+c:\users\ngmpc3\documents\visual studio 2017\Projects\WPFLoginForm\WPFLoginForm\bin\Debug\WPFLoginForm.exe
+c:\users\ngmpc3\documents\visual studio 2017\Projects\WPFLoginForm\WPFLoginForm\bin\Debug\WPFLoginForm.pdb
+c:\users\ngmpc3\documents\visual studio 2017\Projects\WPFLoginForm\WPFLoginForm\obj\Debug\WPFLoginForm.csprojResolveAssemblyReference.cache
+c:\users\ngmpc3\documents\visual studio 2017\Projects\WPFLoginForm\WPFLoginForm\obj\Debug\MainWindow.g.cs
+c:\users\ngmpc3\documents\visual studio 2017\Projects\WPFLoginForm\WPFLoginForm\obj\Debug\App.g.cs
+c:\users\ngmpc3\documents\visual studio 2017\Projects\WPFLoginForm\WPFLoginForm\obj\Debug\WPFLoginForm_MarkupCompile.cache
+c:\users\ngmpc3\documents\visual studio 2017\Projects\WPFLoginForm\WPFLoginForm\obj\Debug\WPFLoginForm_MarkupCompile.lref
+c:\users\ngmpc3\documents\visual studio 2017\Projects\WPFLoginForm\WPFLoginForm\obj\Debug\MainWindow.baml
+c:\users\ngmpc3\documents\visual studio 2017\Projects\WPFLoginForm\WPFLoginForm\obj\Debug\WPFLoginForm.g.resources
+c:\users\ngmpc3\documents\visual studio 2017\Projects\WPFLoginForm\WPFLoginForm\obj\Debug\WPFLoginForm.Properties.Resources.resources
+c:\users\ngmpc3\documents\visual studio 2017\Projects\WPFLoginForm\WPFLoginForm\obj\Debug\WPFLoginForm.csproj.GenerateResource.Cache
+c:\users\ngmpc3\documents\visual studio 2017\Projects\WPFLoginForm\WPFLoginForm\obj\Debug\WPFLoginForm.exe
+c:\users\ngmpc3\documents\visual studio 2017\Projects\WPFLoginForm\WPFLoginForm\obj\Debug\WPFLoginForm.pdb
+C:\Users\NGMPC3\Documents\visual studio 2017\Projects\WPFLoginForm\WPFLoginForm\bin\Debug\MaterialDesignColors.dll
+C:\Users\NGMPC3\Documents\visual studio 2017\Projects\WPFLoginForm\WPFLoginForm\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\NGMPC3\Documents\visual studio 2017\Projects\WPFLoginForm\WPFLoginForm\bin\Debug\MaterialDesignColors.pdb
+C:\Users\NGMPC3\Documents\visual studio 2017\Projects\WPFLoginForm\WPFLoginForm\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\NGMPC3\Documents\visual studio 2017\Projects\WPFLoginForm\WPFLoginForm\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\NGMPC3\Documents\visual studio 2017\Projects\WPFLoginForm\WPFLoginForm\obj\Debug\App.baml
+C:\Users\NGMPC3\Documents\visual studio 2017\Projects\WPFLoginForm\WPFLoginForm\obj\Debug\CustomTheme.baml
+C:\NGMPC3\Projects\WPFLoginForm\WPFLoginForm\bin\Debug\WPFLoginForm.exe.config
+C:\NGMPC3\Projects\WPFLoginForm\WPFLoginForm\bin\Debug\WPFLoginForm.exe
+C:\NGMPC3\Projects\WPFLoginForm\WPFLoginForm\bin\Debug\WPFLoginForm.pdb
+C:\NGMPC3\Projects\WPFLoginForm\WPFLoginForm\bin\Debug\MaterialDesignColors.dll
+C:\NGMPC3\Projects\WPFLoginForm\WPFLoginForm\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\NGMPC3\Projects\WPFLoginForm\WPFLoginForm\bin\Debug\MaterialDesignColors.pdb
+C:\NGMPC3\Projects\WPFLoginForm\WPFLoginForm\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\NGMPC3\Projects\WPFLoginForm\WPFLoginForm\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\NGMPC3\Projects\WPFLoginForm\WPFLoginForm\obj\Debug\WPFLoginForm.csprojResolveAssemblyReference.cache
+C:\NGMPC3\Projects\WPFLoginForm\WPFLoginForm\obj\Debug\MainWindow.g.cs
+C:\NGMPC3\Projects\WPFLoginForm\WPFLoginForm\obj\Debug\App.g.cs
+C:\NGMPC3\Projects\WPFLoginForm\WPFLoginForm\obj\Debug\WPFLoginForm_MarkupCompile.cache
+C:\NGMPC3\Projects\WPFLoginForm\WPFLoginForm\obj\Debug\WPFLoginForm_MarkupCompile.lref
+C:\NGMPC3\Projects\WPFLoginForm\WPFLoginForm\obj\Debug\App.baml
+C:\NGMPC3\Projects\WPFLoginForm\WPFLoginForm\obj\Debug\CustomTheme.baml
+C:\NGMPC3\Projects\WPFLoginForm\WPFLoginForm\obj\Debug\MainWindow.baml
+C:\NGMPC3\Projects\WPFLoginForm\WPFLoginForm\obj\Debug\WPFLoginForm.g.resources
+C:\NGMPC3\Projects\WPFLoginForm\WPFLoginForm\obj\Debug\WPFLoginForm.Properties.Resources.resources
+C:\NGMPC3\Projects\WPFLoginForm\WPFLoginForm\obj\Debug\WPFLoginForm.csproj.GenerateResource.Cache
+C:\NGMPC3\Projects\WPFLoginForm\WPFLoginForm\obj\Debug\WPFLoginForm.exe
+C:\NGMPC3\Projects\WPFLoginForm\WPFLoginForm\obj\Debug\WPFLoginForm.pdb
