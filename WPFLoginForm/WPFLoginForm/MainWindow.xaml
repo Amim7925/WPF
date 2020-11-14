@@ -8,7 +8,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="300"
         FontFamily="Calibri"  Background="Transparent"
-        FontSize="18" WindowStartupLocation="CenterScreen"
+        FontSize="18" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded"
         >
     <Grid Margin="3,0,-3,0">
         <Grid.RowDefinitions>
